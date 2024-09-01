@@ -1,2 +1,4 @@
-# simple-OBJ-viewer
-A rasterization renderer of viewing .obj files
+# Simple OBJ viewer
+A rasterization renderer for viewing .obj files
+
+![An example](monkey.png)
